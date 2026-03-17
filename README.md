@@ -1,6 +1,7 @@
-# Tiny Apps Showcase
+# Tiny Apps, Huge Ideas
 
-This repository is a static GitHub Pages-ready website that showcases three Android apps:
+This repository contains the static website for Tiny Apps, Huge Ideas, a GitHub Pages-ready
+home for three Android apps:
 
 - Mechanical Calculator
 - Columns Classic

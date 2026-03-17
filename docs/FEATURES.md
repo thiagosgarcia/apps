@@ -2,7 +2,7 @@
 
 ## Homepage
 
-The landing page is designed to feel like a compact product portfolio instead of a plain
+The landing page is designed to feel like a compact app site instead of a plain
 document index.
 
 Key elements:
@@ -31,7 +31,7 @@ Every app has two hosted legal pages:
 - `terms.html`
 
 This makes it easy to point Play Store listings, support pages, or other public references
-to URLs that live in the same GitHub Pages deployment as the showcase itself.
+to URLs that live in the same GitHub Pages deployment as the site itself.
 
 ## Static-first implementation
 
@@ -46,7 +46,7 @@ That keeps hosting simple and makes the repository easy to maintain.
 
 ## Reused assets
 
-The site reuses artwork taken from the local Android app projects so the portfolio visually
+The site reuses artwork taken from the local Android app projects so the site visually
 matches the actual apps:
 
 - Mechanical Calculator icon PNG
