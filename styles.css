@@ -417,16 +417,52 @@ code {
 }
 
 .page-hero {
-  display: grid;
-  grid-template-columns: auto 1fr;
-  gap: 1.5rem;
-  padding: 2rem;
-  align-items: center;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  min-height: clamp(20rem, 42vw, 28rem);
+  padding: 0;
+  overflow: hidden;
+  background: #0f172a;
 }
 
-.page-icon-wrap {
-  width: 7rem;
-  height: 7rem;
+.page-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(2, 6, 23, 0.08) 10%, rgba(2, 6, 23, 0.82) 100%);
+}
+
+.page-hero-backdrop {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.page-hero-content {
+  position: relative;
+  z-index: 1;
+  width: min(42rem, 100%);
+  padding: 2rem;
+}
+
+.page-hero .badge {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(2, 6, 23, 0.78);
+  color: #f8fafc;
+  backdrop-filter: blur(12px);
+}
+
+.page-hero .page-lead {
+  color: #e2e8f0;
+}
+
+.page-hero .button-secondary {
+  border-color: rgba(255, 255, 255, 0.18);
+  background: rgba(2, 6, 23, 0.68);
 }
 
 .detail-grid,
