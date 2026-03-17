@@ -72,7 +72,7 @@ projects:
 
 1. Edit `index.html` for homepage content.
 2. Edit the relevant files under `apps/` for app-specific content or legal text.
-3. Replace or add assets under `assets/icons/` as needed.
+3. Replace or add app artwork under `assets/new_icons/` as needed.
 4. Keep `app-ads.txt` at the repository root so it publishes at the website root.
 
 ## Deployment
