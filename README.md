@@ -10,6 +10,9 @@ home for three Android apps:
 It also hosts public legal pages and publisher root files that can be reused in app store
 listings and related support materials.
 
+The site supports English, Spanish, and PT-BR through a client-side language switch, with
+PT-BR as the default language.
+
 ## What is included
 
 - A polished landing page at `index.html`

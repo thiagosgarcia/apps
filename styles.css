@@ -98,6 +98,41 @@ code {
   min-height: 4.75rem;
 }
 
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.lang-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 2.4rem;
+  min-height: 2.4rem;
+  padding: 0.2rem 0.55rem;
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.74);
+  color: var(--text);
+  font: inherit;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
+}
+
+.lang-button:hover {
+  transform: translateY(-1px);
+  border-color: rgba(96, 165, 250, 0.45);
+}
+
+.lang-button[aria-pressed="true"] {
+  border-color: rgba(96, 165, 250, 0.72);
+  background: rgba(37, 99, 235, 0.28);
+  color: #eff6ff;
+}
+
 .brand,
 .brand:visited {
   font-size: 1.05rem;

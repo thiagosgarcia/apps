@@ -39,6 +39,8 @@ The site intentionally uses:
 
 - Plain HTML
 - One shared CSS file
+- A client-side language switch for EN, ES, and PT-BR
+- PT-BR as the default language
 - No client-side build pipeline
 - No runtime dependencies
 
