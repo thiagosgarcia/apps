@@ -27,7 +27,7 @@
         primaryNav: "Navegação principal",
         appsLink: "Apps",
         heroEyebrow: "Tiny Apps, Huge Ideas",
-        heroTitle: "Aplicativos úteis e pequenos com muita personalidade.",
+        heroTitle: "Aplicativos úteis com muita personalidade.",
         heroLead: "Se você quer uma forma melhor de conferir contas, encaixar uma partida rápida de quebra-cabeça ou manter uma partida de xadrez no ritmo certo, estes apps foram feitos para parecer simples, focados e divertidos desde o primeiro toque.",
         heroPrimary: "Ver os apps",
         heroSecondary: "Começar pela Calculadora Mecânica",
@@ -44,9 +44,13 @@
         calculatorLead: "Se você gosta de ver cada etapa, este app mantém uma fita de papel em estilo recibo para os cálculos e ainda adiciona ferramentas integradas para conversões, cenários de juros e divisão de conta.",
         calculatorFeatures: [
           "Memória em fita de papel que registra entradas e resultados",
-          "Ferramentas integradas de conversão de unidades, juros e divisão de conta",
-          "Exportação dos resultados da calculadora e das ferramentas em TXT, CSV, PNG, JPG e PDF",
-          "Efeitos opcionais de impressão e controles do teclado no modo paisagem"
+          "Calculadora com suporte completo a operadores e funcionalidade de porcentagem",
+          "Ferramenta Divisor de Conta para dividir custos com distribuição uniforme ou desigual, incluindo gorjeta",
+          "Conversor de Unidades com suporte a comprimento, peso, volume e conversões de temperatura",
+          "Calculadora de Juros com múltiplos modos: simples, retroativo, composto e cenários de poupança",
+          "Gerador de Números para criar sequências de números e valores aleatórios",
+          "Efeitos opcionais de impressão e sons adicionam sensação de calculadora mecânica",
+          "Modo paisagem e opções de exportação (TXT, CSV, PNG, JPG, PDF) facilitam revisar e compartilhar resultados"
         ],
         calculatorAppPage: "Página do app",
         calculatorPrivacy: "Privacidade",
@@ -88,7 +92,9 @@
         footerStart: "Começar pela Calculadora Mecânica",
         calculatorAlt: "Ícone da Calculadora Mecânica",
         columnsAlt: "Ícone do Columns Classic",
-        chessAlt: "Ícone do Chess Timer"
+        chessAlt: "Ícone do Chess Timer",
+        getItOnGooglePlay: "Obtenha na Google Play",
+        comingSoon: "Em breve"
       },
       mechanicalCalculatorIndex: {
         title: "Calculadora Mecânica | Tiny Apps, Huge Ideas",
@@ -131,7 +137,8 @@
         footerText: "Uma calculadora de fita de papel com ferramentas extras para o dia a dia.",
         footerPrivacy: "Privacidade",
         footerTerms: "Termos",
-        footerHome: "Início"
+        footerHome: "Início",
+        getItOnGooglePlay: "Obtenha na Google Play"
       },
       mechanicalCalculatorPrivacy: {
         title: "Política de Privacidade da Calculadora Mecânica | Tiny Apps, Huge Ideas",
@@ -257,7 +264,8 @@
         footerText: "Um jogo de quebra-cabeça colorido feito para partidas rápidas e aquela vontade de tentar mais uma vez.",
         footerPrivacy: "Privacidade",
         footerTerms: "Termos",
-        footerHome: "Início"
+        footerHome: "Início",
+        comingSoon: "Em breve"
       },
       columnsClassicPrivacy: {
         title: "Política de Privacidade de Columns Classic | Tiny Apps, Huge Ideas",
@@ -388,7 +396,8 @@
         footerText: "Um relógio de xadrez feito para permanecer calmo enquanto a partida esquenta.",
         footerPrivacy: "Privacidade",
         footerTerms: "Termos",
-        footerHome: "Início"
+        footerHome: "Início",
+        comingSoon: "Em breve"
       },
       chessTimerPrivacy: {
         title: "Política de Privacidade do Chess Timer | Tiny Apps, Huge Ideas",
@@ -493,7 +502,7 @@
         primaryNav: "Navegación principal",
         appsLink: "Aplicaciones",
         heroEyebrow: "Tiny Apps, Huge Ideas",
-        heroTitle: "Aplicaciones pequeñas y útiles con mucha personalidad.",
+        heroTitle: "Aplicaciones útiles con mucha personalidad.",
         heroLead: "Si quieres una mejor forma de revisar cálculos, encajar una partida rápida de rompecabezas o mantener una partida de ajedrez en ritmo, estas apps están hechas para sentirse simples, enfocadas y divertidas desde el primer toque.",
         heroPrimary: "Ver las apps",
         heroSecondary: "Empezar con la Calculadora Mecánica",
@@ -554,7 +563,9 @@
         footerStart: "Empezar con la Calculadora Mecánica",
         calculatorAlt: "Ícono de la Calculadora Mecánica",
         columnsAlt: "Ícono de Columns Classic",
-        chessAlt: "Ícono de Chess Timer"
+        chessAlt: "Ícono de Chess Timer",
+        getItOnGooglePlay: "Obtén en Google Play",
+        comingSoon: "Próximamente"
       },
       mechanicalCalculatorIndex: {
         title: "Calculadora Mecánica | Tiny Apps, Huge Ideas",
@@ -575,11 +586,13 @@
         whyTitle: "Por qué te gustará",
         whyItems: [
           "El historial en cinta de papel registra entradas, operaciones y resultados como un recibo.",
+          "Calculadora con soporte completo de operadores y funcionalidad de porcentaje.",
+          "Herramienta Divisor de Cuentas para dividir costos con distribución equitativa o desigual, incluyendo propinas.",
+          "Conversor de Unidades con soporte para conversiones de longitud, peso, volumen y temperatura.",
+          "Calculadora de Intereses con múltiples modos: simple, retroactivo, compuesto y escenarios de ahorro.",
+          "Generador de Números para crear secuencias de números y valores aleatorios.",
           "La animación de impresión opcional y los efectos de sonido refuerzan la sensación de calculadora mecánica.",
-          "Las herramientas integradas cubren conversión de unidades, división de cuentas y cálculos de intereses.",
-          "El modo de intereses incluye pestañas de interés simple, retroactivo, compuesto y de ahorro.",
-          "El divisor de cuentas admite reparto igual o desigual, con propina opcional.",
-          "El modo horizontal y las opciones de exportación facilitan revisar o compartir resultados."
+          "El modo horizontal y las opciones de exportación (TXT, CSV, PNG, JPG, PDF) facilitan revisar o compartir resultados."
         ],
         whenTitle: "Excelente cuando quieres...",
         whenText1: "Revisar cálculos de la escuela, del trabajo o de casa sin perder el rastro de cómo llegaste al resultado.",
@@ -597,7 +610,8 @@
         footerText: "Una calculadora de cinta de papel con herramientas extra para el día a día.",
         footerPrivacy: "Privacidad",
         footerTerms: "Términos",
-        footerHome: "Inicio"
+        footerHome: "Inicio",
+        getItOnGooglePlay: "Obtén en Google Play"
       },
       mechanicalCalculatorPrivacy: {
         title: "Política de Privacidad de la Calculadora Mecánica | Tiny Apps, Huge Ideas",
@@ -723,7 +737,8 @@
         footerText: "Un juego de rompecabezas colorido creado para partidas rápidas y energía de 'una más'.",
         footerPrivacy: "Privacidad",
         footerTerms: "Términos",
-        footerHome: "Inicio"
+        footerHome: "Inicio",
+        comingSoon: "Próximamente"
       },
       columnsClassicPrivacy: {
         title: "Política de Privacidad de Columns Classic | Tiny Apps, Huge Ideas",
@@ -854,7 +869,8 @@
         footerText: "Un reloj de ajedrez creado para mantenerse tranquilo mientras la partida se pone intensa.",
         footerPrivacy: "Privacidad",
         footerTerms: "Términos",
-        footerHome: "Inicio"
+        footerHome: "Inicio",
+        comingSoon: "Próximamente"
       },
       chessTimerPrivacy: {
         title: "Política de Privacidad de Chess Timer | Tiny Apps, Huge Ideas",
@@ -944,7 +960,7 @@
         { selector: ".brand", values: { "pt-BR": "Tiny Apps, Huge Ideas", es: "Tiny Apps, Huge Ideas" } },
         { selector: ".nav-links a[href=\"#apps\"]", values: { "pt-BR": "Apps", es: "Aplicaciones" } },
         { selector: ".hero .eyebrow", values: { "pt-BR": "Tiny Apps, Huge Ideas", es: "Tiny Apps, Huge Ideas" } },
-        { selector: ".hero h1", values: { "pt-BR": "Aplicativos úteis e pequenos com muita personalidade.", es: "Aplicaciones pequeñas y útiles con mucha personalidad." } },
+        { selector: ".hero h1", values: { "pt-BR": "Aplicativos úteis com muita personalidade.", es: "Aplicaciones útiles con mucha personalidade." } },
         { selector: ".hero .lead", values: { "pt-BR": "Se você quer uma forma melhor de conferir contas, encaixar uma partida rápida de quebra-cabeça ou manter uma partida de xadrez no ritmo certo, estes apps foram feitos para parecer simples, focados e divertidos desde o primeiro toque.", es: "Si quieres una mejor forma de revisar cálculos, encajar una partida rápida de rompecabezas o mantener una partida de ajedrez en ritmo, estas apps están hechas para sentirse simples, enfocadas y divertidas desde el primer toque." } },
         { selector: ".hero .button-primary", values: { "pt-BR": "Ver os apps", es: "Ver las apps" } },
         { selector: ".hero .button-secondary", values: { "pt-BR": "Começar pela Calculadora Mecânica", es: "Empezar con la Calculadora Mecánica" } },
@@ -955,7 +971,7 @@
         { selector: ".card-grid .card:nth-of-type(1) .card-badge", values: { "pt-BR": "Utilitário", es: "Utilidad" } },
         { selector: ".card-grid .card:nth-of-type(1) h3", values: { "pt-BR": "Calculadora Mecânica", es: "Calculadora Mecánica" } },
         { selector: ".card-grid .card:nth-of-type(1) > p", values: { "pt-BR": "Se você gosta de ver cada etapa, este app mantém uma fita de papel em estilo recibo para os cálculos e ainda adiciona ferramentas integradas para conversões, cenários de juros e divisão de conta.", es: "Si te gusta ver cada paso, esta app mantiene una cinta de papel tipo recibo para los cálculos y además añade herramientas integradas para conversiones, escenarios de intereses y división de cuentas." } },
-        { selector: ".card-grid .card:nth-of-type(1) .feature-list li", values: { "pt-BR": ["Memória em fita de papel que registra entradas e resultados", "Ferramentas integradas de conversão de unidades, juros e divisão de conta", "Exportação dos resultados da calculadora e das ferramentas em TXT, CSV, PNG, JPG e PDF", "Efeitos opcionais de impressão e controles do teclado no modo paisagem"], es: ["Memoria en cinta de papel que registra entradas y resultados", "Herramientas integradas de conversión de unidades, intereses y división de cuentas", "Exportación de resultados de la calculadora y de las herramientas en TXT, CSV, PNG, JPG y PDF", "Efectos de impresión opcionales y controles del teclado en modo horizontal"] } },
+        { selector: ".card-grid .card:nth-of-type(1) .feature-list li", values: { "pt-BR": ["Memória em fita de papel que registra entradas e resultados", "Calculadora com suporte completo a operadores e funcionalidade de porcentagem", "Ferramenta Divisor de Conta para dividir custos com distribuição uniforme ou desigual, incluindo gorjeta", "Conversor de Unidades com suporte a comprimento, peso, volume e conversões de temperatura", "Calculadora de Juros com múltiplos modos: simples, retroativo, composto e cenários de poupança", "Gerador de Números para criar sequências de números e valores aleatórios", "Efeitos opcionais de impressão e sons adicionam sensação de calculadora mecânica", "Modo paisagem e opções de exportação (TXT, CSV, PNG, JPG, PDF) facilitam revisar e compartilhar resultados"], es: ["Memoria en cinta de papel que registra entradas y resultados", "Calculadora con soporte completo de operadores y funcionalidad de porcentaje", "Herramienta Divisor de Cuentas para dividir costos con distribución equitativa o desigual, incluyendo propinas", "Conversor de Unidades con soporte para conversiones de longitud, peso, volumen y temperatura", "Calculadora de Intereses con múltiples modos: simple, retroactivo, compuesto y escenarios de ahorro", "Generador de Números para crear secuencias de números y valores aleatorios", "La animación de impresión opcional y los efectos de sonido refuerzan la sensación de calculadora mecánica", "El modo horizontal y las opciones de exportación (TXT, CSV, PNG, JPG, PDF) facilitan revisar o compartir resultados"] } },
         { selector: ".card-grid .card:nth-of-type(1) .button-primary", values: { "pt-BR": "Página do app", es: "Página de la app" } },
         { selector: ".card-grid .card:nth-of-type(1) .button-row a:nth-of-type(2)", values: { "pt-BR": "Privacidade", es: "Privacidad" } },
         { selector: ".card-grid .card:nth-of-type(1) .button-row a:nth-of-type(3)", values: { "pt-BR": "Termos", es: "Términos" } },
@@ -966,6 +982,7 @@
         { selector: ".card-grid .card:nth-of-type(2) .button-primary", values: { "pt-BR": "Página do app", es: "Página de la app" } },
         { selector: ".card-grid .card:nth-of-type(2) .button-row a:nth-of-type(2)", values: { "pt-BR": "Privacidade", es: "Privacidad" } },
         { selector: ".card-grid .card:nth-of-type(2) .button-row a:nth-of-type(3)", values: { "pt-BR": "Termos", es: "Términos" } },
+        { selector: ".card-grid .card:nth-of-type(2) .button-row a.google-play-coming-soon", values: { "pt-BR": "Em breve", es: "Próximamente" } },
         { selector: ".card-grid .card:nth-of-type(3) .card-badge", values: { "pt-BR": "Ferramenta", es: "Herramienta" } },
         { selector: ".card-grid .card:nth-of-type(3) h3", values: { "pt-BR": "Chess Timer", es: "Chess Timer" } },
         { selector: ".card-grid .card:nth-of-type(3) > p", values: { "pt-BR": "Para jogos presenciais, este relógio de xadrez mantém os turnos claros, a configuração fácil e a partida mais fluida para os dois jogadores.", es: "Para partidas presenciales, este reloj de ajedrez mantiene los turnos claros, la configuración fácil y toda la sesión más fluida para ambos jugadores." } },
@@ -973,6 +990,7 @@
         { selector: ".card-grid .card:nth-of-type(3) .button-primary", values: { "pt-BR": "Página do app", es: "Página de la app" } },
         { selector: ".card-grid .card:nth-of-type(3) .button-row a:nth-of-type(2)", values: { "pt-BR": "Privacidade", es: "Privacidad" } },
         { selector: ".card-grid .card:nth-of-type(3) .button-row a:nth-of-type(3)", values: { "pt-BR": "Termos", es: "Términos" } },
+        { selector: ".card-grid .card:nth-of-type(3) .button-row a.google-play-coming-soon", values: { "pt-BR": "Em breve", es: "Próximamente" } },
         { selector: ".section-muted .eyebrow", values: { "pt-BR": "Por que eles são bons de usar", es: "Por qué se sienten bien de usar" } },
         { selector: ".section-muted .section-heading h2", values: { "pt-BR": "Fáceis de aprender, fáceis de manter e feitos para não atrapalhar", es: "Fáciles de aprender, fáciles de conservar y hechas para no estorbar" } },
         { selector: ".highlight-grid .highlight-card:nth-of-type(1) h3", values: { "pt-BR": "Feitos para momentos reais", es: "Hechas para momentos reales" } },
@@ -992,7 +1010,8 @@
         { selector: ".lang-switch", attr: "aria-label", values: { "pt-BR": "Idioma", es: "Idioma" } },
         { selector: ".card-grid .card:nth-of-type(1) .card-backdrop", attr: "alt", values: { "pt-BR": "Ícone da Calculadora Mecânica", es: "Ícono de la Calculadora Mecánica" } },
         { selector: ".card-grid .card:nth-of-type(2) .card-backdrop", attr: "alt", values: { "pt-BR": "Ícone do Columns Classic", es: "Ícono de Columns Classic" } },
-        { selector: ".card-grid .card:nth-of-type(3) .card-backdrop", attr: "alt", values: { "pt-BR": "Ícone do Chess Timer", es: "Ícono de Chess Timer" } }
+        { selector: ".card-grid .card:nth-of-type(3) .card-backdrop", attr: "alt", values: { "pt-BR": "Ícone do Chess Timer", es: "Ícono de Chess Timer" } },
+        { selector: ".card-grid .card:nth-of-type(1) .button-row a.google-play-button img", attr: "src", values: { "pt-BR": "assets/googlePlay/GetItOnGooglePlay_Badge_Web_color_Portuguese-Brazil.png", es: "assets/googlePlay/GetItOnGooglePlay_Badge_Web_color_Spanish.png" } }
       ]
     }
   };
@@ -1019,6 +1038,7 @@
         { selector: ".page-hero .button-primary", values: pair(pt.privacyButton, es.privacyButton) },
         { selector: ".page-hero .button-row a:nth-of-type(2)", values: pair(pt.termsButton, es.termsButton) },
         { selector: ".page-hero .button-row a:nth-of-type(3)", values: pair(pt.backButton, es.backButton) },
+        { selector: ".page-hero .button-row a.google-play-coming-soon", values: pair(pt.comingSoon, es.comingSoon) },
         { selector: ".detail-grid .content-card:nth-of-type(1) h3", values: pair(pt.whyTitle, es.whyTitle) },
         { selector: ".detail-grid .content-card:nth-of-type(1) li", values: pair(pt.whyItems, es.whyItems) },
         { selector: ".detail-grid .content-card:nth-of-type(2) h3", values: pair(pt.whenTitle, es.whenTitle) },
@@ -1038,7 +1058,8 @@
       html: [],
       attrs: [
         { selector: ".site-header .nav", attr: "aria-label", values: pair(pt.primaryNav, es.primaryNav) },
-        { selector: ".lang-switch", attr: "aria-label", values: pair(translations["pt-BR"].common.languageGroup, translations.es.common.languageGroup) }
+        { selector: ".lang-switch", attr: "aria-label", values: pair(translations["pt-BR"].common.languageGroup, translations.es.common.languageGroup) },
+        { selector: ".page-hero .button-row a.google-play-button img", attr: "src", values: { "pt-BR": "../../assets/googlePlay/GetItOnGooglePlay_Badge_Web_color_Portuguese-Brazil.png", es: "../../assets/googlePlay/GetItOnGooglePlay_Badge_Web_color_Spanish.png" } }
       ]
     };
   }
