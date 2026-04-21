@@ -10,7 +10,7 @@ Key elements:
 - Hero section that explains the purpose of the site
 - Responsive app cards with artwork, summaries, feature lists, and direct legal links
 - Shared section that communicates the common values across the apps
-- Publishing section for root files such as `app-ads.txt` and `robots.txt`
+- Publishing section for root files such as `app-ads.txt`, `robots.txt`, and `sitemap.xml`
 
 ## App profile pages
 

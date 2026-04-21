@@ -21,8 +21,8 @@
         backToAllApps: "Voltar para todos os apps"
       },
       home: {
-        title: "Tiny Apps, Huge Ideas",
-        description: "Tiny Apps, Huge Ideas reúne uma calculadora de fita de papel, um jogo de quebra-cabeça colorido e um relógio de xadrez limpo.",
+        title: "Tiny Apps, Huge Ideas | Apps Android de calculadora, puzzle e xadrez",
+        description: "Descubra a Tiny Apps, Huge Ideas: apps Android para cálculos com fita de papel, quebra-cabeças de blocos e controle de tempo no xadrez presencial.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appsLink: "Apps",
@@ -97,8 +97,8 @@
         comingSoon: "Em breve"
       },
       mechanicalCalculatorIndex: {
-        title: "Calculadora Mecânica | Tiny Apps, Huge Ideas",
-        description: "A Calculadora Mecânica combina uma calculadora de fita de papel com exportações, conversor de unidades, divisão de conta e ferramentas de juros em um app com clima clássico.",
+        title: "Calculadora Mecânica | Calculadora com fita de papel para Android",
+        description: "A Calculadora Mecânica é uma calculadora Android com fita de papel, divisor de conta, conversor de unidades, calculadora de juros, gerador aleatório e exportações.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         allApps: "Todos os apps",
@@ -115,11 +115,13 @@
         whyTitle: "Por que você vai gostar",
         whyItems: [
           "O histórico em fita de papel registra entradas, operações e resultados como um recibo.",
+          "Calculadora com suporte completo a operadores e funcionalidade de porcentagem.",
+          "Ferramenta Divisor de Conta para dividir custos com distribuição uniforme ou desigual, incluindo gorjeta.",
+          "Conversor de Unidades com suporte a comprimento, peso, volume e conversões de temperatura.",
+          "Calculadora de Juros com múltiplos modos: simples, retroativo, composto e cenários de poupança.",
+          "Gerador de Números para criar sequências de números e valores aleatórios.",
           "A animação de impressão opcional e os efeitos sonoros reforçam o clima de calculadora mecânica.",
-          "As ferramentas integradas cobrem conversão de unidades, divisão de conta e cálculos de juros.",
-          "O modo de juros inclui abas de juros simples, retroativos, compostos e poupança.",
-          "O Divisor de Conta aceita divisão igual ou desigual, com gorjeta opcional.",
-          "O modo paisagem e as opções de exportação facilitam revisar ou compartilhar resultados."
+          "O modo paisagem e as opções de exportação (TXT, CSV, PNG, JPG, PDF) facilitam revisar ou compartilhar resultados."
         ],
         whenTitle: "Ótima quando você quer...",
         whenText1: "Conferir cálculos da escola, do trabalho ou de casa sem perder o rastro de como chegou ao resultado.",
@@ -142,7 +144,7 @@
       },
       mechanicalCalculatorPrivacy: {
         title: "Política de Privacidade da Calculadora Mecânica | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidade da Calculadora Mecânica da Tiny Apps, Huge Ideas.",
+        description: "Leia a Política de Privacidade da Calculadora Mecânica sobre dados no dispositivo, exportações, banners opcionais do Google AdMob e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -184,7 +186,7 @@
       },
       mechanicalCalculatorTerms: {
         title: "Termos e Condições da Calculadora Mecânica | Tiny Apps, Huge Ideas",
-        description: "Termos e Condições da Calculadora Mecânica da Tiny Apps, Huge Ideas.",
+        description: "Leia os Termos e Condições da Calculadora Mecânica sobre uso do app, exportações, anúncios opcionais, atualizações e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -222,8 +224,8 @@
         contactText: "Dúvidas sobre estes termos devem ser encaminhadas pelo canal de suporte fornecido com a distribuição do app ou com a listagem da loja."
       },
       columnsClassicIndex: {
-        title: "Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Columns Classic oferece ação rápida de quebra-cabeça com blocos caindo, combinações em cadeia coloridas e desafio de jogadas rápidas que você pode aproveitar offline.",
+        title: "Columns Classic | Jogo de blocos e puzzle para Android",
+        description: "Columns Classic é um jogo Android de blocos com partidas offline, reações em cadeia, vários níveis de dificuldade e tamanhos de tabuleiro.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         allApps: "Todos os apps",
@@ -269,7 +271,7 @@
       },
       columnsClassicPrivacy: {
         title: "Política de Privacidade de Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidade de Columns Classic da Tiny Apps, Huge Ideas.",
+        description: "Leia a Política de Privacidade de Columns Classic sobre dados de jogo offline, armazenamento local, anúncios opcionais e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -316,7 +318,7 @@
       },
       columnsClassicTerms: {
         title: "Termos e Condições de Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Termos e Condições de Columns Classic da Tiny Apps, Huge Ideas.",
+        description: "Leia os Termos e Condições de Columns Classic sobre jogabilidade, anúncios opcionais, disponibilidade do app e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -354,8 +356,8 @@
         contactText: "Dúvidas sobre estes termos devem ser encaminhadas pelo canal de suporte fornecido com a distribuição do app ou com a listagem da loja."
       },
       chessTimerIndex: {
-        title: "Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Chess Timer oferece um relógio de xadrez limpo para dois jogadores, com configuração rápida, mudanças de turno claras e uma sensação calma para partidas presenciais.",
+        title: "Chess Timer | Relógio de xadrez para Android",
+        description: "Chess Timer é um relógio de xadrez Android para partidas de dois jogadores, com configuração rápida, tempos personalizados, trocas de turno claras e uso offline.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         allApps: "Todos os apps",
@@ -401,7 +403,7 @@
       },
       chessTimerPrivacy: {
         title: "Política de Privacidade do Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidade do Chess Timer da Tiny Apps, Huge Ideas.",
+        description: "Leia a Política de Privacidade do Chess Timer sobre configurações locais, nomes de jogadores, anúncios opcionais e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -441,7 +443,7 @@
       },
       chessTimerTerms: {
         title: "Termos e Condições do Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Termos e Condições do Chess Timer da Tiny Apps, Huge Ideas.",
+        description: "Leia os Termos e Condições do Chess Timer sobre uso do app, controles de tempo, anúncios opcionais, atualizações e suporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegação principal",
         appPage: "Página do app",
@@ -496,8 +498,8 @@
         backToAllApps: "Volver a todas las apps"
       },
       home: {
-        title: "Tiny Apps, Huge Ideas",
-        description: "Tiny Apps, Huge Ideas reúne una calculadora de cinta de papel, un juego de rompecabezas colorido y un reloj de ajedrez limpio.",
+        title: "Tiny Apps, Huge Ideas | Apps Android de calculadora, rompecabezas y ajedrez",
+        description: "Descubre Tiny Apps, Huge Ideas: apps Android para cálculos con cinta de papel, rompecabezas de bloques y control de tiempo para ajedrez presencial.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appsLink: "Aplicaciones",
@@ -568,8 +570,8 @@
         comingSoon: "Próximamente"
       },
       mechanicalCalculatorIndex: {
-        title: "Calculadora Mecánica | Tiny Apps, Huge Ideas",
-        description: "La Calculadora Mecánica combina una calculadora de cinta de papel con exportaciones, un convertidor de unidades, un divisor de cuentas y herramientas de intereses en una app con sensación clásica.",
+        title: "Calculadora Mecánica | Calculadora de cinta para Android",
+        description: "La Calculadora Mecánica es una calculadora Android con cinta de papel, divisor de cuentas, conversor de unidades, calculadora de intereses, generador aleatorio y exportaciones.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         allApps: "Todas las apps",
@@ -615,7 +617,7 @@
       },
       mechanicalCalculatorPrivacy: {
         title: "Política de Privacidad de la Calculadora Mecánica | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidad de la Calculadora Mecánica de Tiny Apps, Huge Ideas.",
+        description: "Lee la Política de Privacidad de la Calculadora Mecánica sobre datos en el dispositivo, exportaciones, banners opcionales de Google AdMob y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -657,7 +659,7 @@
       },
       mechanicalCalculatorTerms: {
         title: "Términos y Condiciones de la Calculadora Mecánica | Tiny Apps, Huge Ideas",
-        description: "Términos y Condiciones de la Calculadora Mecánica de Tiny Apps, Huge Ideas.",
+        description: "Lee los Términos y Condiciones de la Calculadora Mecánica sobre uso de la app, exportaciones, anuncios opcionales, actualizaciones y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -695,8 +697,8 @@
         contactText: "Las preguntas sobre estos términos deben dirigirse a través del canal de soporte proporcionado con la distribución de la app o con el listado de la tienda."
       },
       columnsClassicIndex: {
-        title: "Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Columns Classic ofrece acción rápida de rompecabezas con bloques que caen, combinaciones en cadena coloridas y un desafío de partidas rápidas que puedes disfrutar sin conexión.",
+        title: "Columns Classic | Juego de bloques y rompecabezas para Android",
+        description: "Columns Classic es un juego Android de bloques con partidas sin conexión, reacciones en cadena, varios niveles de dificultad y tamaños de tablero.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         allApps: "Todas las apps",
@@ -742,7 +744,7 @@
       },
       columnsClassicPrivacy: {
         title: "Política de Privacidad de Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidad de Columns Classic de Tiny Apps, Huge Ideas.",
+        description: "Lee la Política de Privacidad de Columns Classic sobre datos de juego sin conexión, almacenamiento local, anuncios opcionales y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -789,7 +791,7 @@
       },
       columnsClassicTerms: {
         title: "Términos y Condiciones de Columns Classic | Tiny Apps, Huge Ideas",
-        description: "Términos y Condiciones de Columns Classic de Tiny Apps, Huge Ideas.",
+        description: "Lee los Términos y Condiciones de Columns Classic sobre jugabilidad, anuncios opcionales, disponibilidad de la app y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -827,8 +829,8 @@
         contactText: "Las preguntas sobre estos términos deben dirigirse a través del canal de soporte proporcionado con la distribución de la app o con el listado de la tienda."
       },
       chessTimerIndex: {
-        title: "Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Chess Timer ofrece un reloj de ajedrez limpio para dos jugadores, con configuración rápida, cambios de turno claros y una sensación tranquila para partidas sobre el tablero.",
+        title: "Chess Timer | Reloj de ajedrez para Android",
+        description: "Chess Timer es un reloj de ajedrez Android para partidas de dos jugadores, con configuración rápida, tiempos personalizados, cambios de turno claros y uso sin conexión.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         allApps: "Todas las apps",
@@ -874,7 +876,7 @@
       },
       chessTimerPrivacy: {
         title: "Política de Privacidad de Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Política de Privacidad de Chess Timer de Tiny Apps, Huge Ideas.",
+        description: "Lee la Política de Privacidad de Chess Timer sobre configuraciones locales, nombres de jugadores, anuncios opcionales y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -914,7 +916,7 @@
       },
       chessTimerTerms: {
         title: "Términos y Condiciones de Chess Timer | Tiny Apps, Huge Ideas",
-        description: "Términos y Condiciones de Chess Timer de Tiny Apps, Huge Ideas.",
+        description: "Lee los Términos y Condiciones de Chess Timer sobre uso de la app, controles de tiempo, anuncios opcionales, actualizaciones y soporte.",
         brand: "Tiny Apps, Huge Ideas",
         primaryNav: "Navegación principal",
         appPage: "Página de la app",
@@ -1253,6 +1255,16 @@
     return pageConfigs[pageKey] || null;
   }
 
+  function getOgLocale(locale) {
+    if (locale === "pt-BR") {
+      return "pt_BR";
+    }
+    if (locale === "es") {
+      return "es_ES";
+    }
+    return "en_US";
+  }
+
   function getOriginalBucket(node) {
     var bucket = originalBucket.get(node);
     if (!bucket) {
@@ -1323,20 +1335,43 @@
     var pageKey = getPageKey();
     var pageCopy = locale === "en" ? null : translations[locale] && translations[locale][pageKey];
 
+    var localizedTitle = null;
+    var localizedDescription = null;
+
     if (locale === "en") {
       if (config.titleNode) {
-        document.title = getOriginal(config.titleNode, "text");
+        localizedTitle = getOriginal(config.titleNode, "text");
+        document.title = localizedTitle;
       }
       if (config.descriptionNode) {
-        config.descriptionNode.setAttribute("content", getOriginal(config.descriptionNode, "attr", "content"));
+        localizedDescription = getOriginal(config.descriptionNode, "attr", "content");
+        config.descriptionNode.setAttribute("content", localizedDescription);
       }
     } else {
       if (pageCopy && pageCopy.title) {
-        document.title = pageCopy.title;
+        localizedTitle = pageCopy.title;
+        document.title = localizedTitle;
       }
       if (pageCopy && pageCopy.description && config.descriptionNode) {
-        config.descriptionNode.setAttribute("content", pageCopy.description);
+        localizedDescription = pageCopy.description;
+        config.descriptionNode.setAttribute("content", localizedDescription);
       }
+    }
+
+    if (localizedTitle && config.ogTitleNode) {
+      config.ogTitleNode.setAttribute("content", localizedTitle);
+    }
+    if (localizedDescription && config.ogDescriptionNode) {
+      config.ogDescriptionNode.setAttribute("content", localizedDescription);
+    }
+    if (localizedTitle && config.twitterTitleNode) {
+      config.twitterTitleNode.setAttribute("content", localizedTitle);
+    }
+    if (localizedDescription && config.twitterDescriptionNode) {
+      config.twitterDescriptionNode.setAttribute("content", localizedDescription);
+    }
+    if (config.ogLocaleNode) {
+      config.ogLocaleNode.setAttribute("content", getOgLocale(locale));
     }
 
     for (var i = 0; i < config.text.length; i += 1) {
@@ -1372,12 +1407,37 @@
 
     config.titleNode = document.querySelector("title");
     config.descriptionNode = document.querySelector('meta[name="description"]');
+    config.ogTitleNode = document.querySelector('meta[property="og:title"]');
+    config.ogDescriptionNode = document.querySelector('meta[property="og:description"]');
+    config.ogLocaleNode = document.querySelector('meta[property="og:locale"]');
+    config.twitterTitleNode = document.querySelector('meta[name="twitter:title"]');
+    config.twitterDescriptionNode = document.querySelector('meta[name="twitter:description"]');
 
     if (config.titleNode) {
       getOriginalBucket(config.titleNode);
     }
     if (config.descriptionNode) {
       getOriginalBucket(config.descriptionNode);
+    }
+    if (config.ogTitleNode) {
+      getOriginalBucket(config.ogTitleNode);
+      getOriginal(config.ogTitleNode, "attr", "content");
+    }
+    if (config.ogDescriptionNode) {
+      getOriginalBucket(config.ogDescriptionNode);
+      getOriginal(config.ogDescriptionNode, "attr", "content");
+    }
+    if (config.ogLocaleNode) {
+      getOriginalBucket(config.ogLocaleNode);
+      getOriginal(config.ogLocaleNode, "attr", "content");
+    }
+    if (config.twitterTitleNode) {
+      getOriginalBucket(config.twitterTitleNode);
+      getOriginal(config.twitterTitleNode, "attr", "content");
+    }
+    if (config.twitterDescriptionNode) {
+      getOriginalBucket(config.twitterDescriptionNode);
+      getOriginal(config.twitterDescriptionNode, "attr", "content");
     }
 
     var allEntries = []

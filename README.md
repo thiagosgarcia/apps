@@ -20,6 +20,7 @@ PT-BR as the default language.
 - Hosted privacy policies and terms for each app
 - Root `app-ads.txt`
 - Root `robots.txt`
+- Root `sitemap.xml`
 - Reused artwork copied from the original app projects
 - Repository documentation for site features and deployment
 
@@ -29,6 +30,7 @@ PT-BR as the default language.
 .
 |-- app-ads.txt
 |-- robots.txt
+|-- sitemap.xml
 |-- index.html
 |-- styles.css
 |-- assets/
@@ -76,7 +78,7 @@ projects:
 1. Edit `index.html` for homepage content.
 2. Edit the relevant files under `apps/` for app-specific content or legal text.
 3. Replace or add app artwork under `assets/new_icons/` as needed.
-4. Keep `app-ads.txt` at the repository root so it publishes at the website root.
+4. Keep `app-ads.txt`, `robots.txt`, and `sitemap.xml` at the repository root so they publish at the website root.
 
 ## Deployment
 

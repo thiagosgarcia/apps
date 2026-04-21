@@ -12,6 +12,7 @@ This site is intentionally framework-free, so deployment is straightforward:
    - `/index.html`
    - `/app-ads.txt`
    - `/robots.txt`
+   - `/sitemap.xml`
    - `/apps/...` legal pages
 
 ## User site vs project site
@@ -29,10 +30,10 @@ No path rewriting is required for the current structure.
 - Confirm legal text matches the live app behavior.
 - Confirm `app-ads.txt` contains the desired AdMob publisher declaration.
 - Confirm `robots.txt` is present at the root.
+- Confirm `sitemap.xml` is present at the root and matches the published URLs.
 - Add store or repository links later if you want external call-to-action buttons.
 
 ## Optional future improvements
 
-- Add real store badges once the app listing URLs are available.
 - Add screenshots or animated previews under `assets/`.
-- Add a sitemap once the final production domain is known.
+- Submit the sitemap in Google Search Console after launch.
